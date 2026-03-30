@@ -17,7 +17,7 @@ using System.Collections.Generic;
 using MediaBrowser.Model.Plugins;
 
 #pragma warning disable CA2227
-namespace Jellyfin.Xtream.Configuration;
+namespace Jellyfin.Xtream2.Configuration;
 
 /// <summary>
 /// Plugin configuration.
